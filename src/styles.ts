@@ -91,7 +91,7 @@ const styles = {
     padding: ".5rem .75rem",
     height: "100%",
     minHeight: 50,
-    textTransform: "capitalize",
+    textTransform: "uppercase",
     userSelect: "none",
   },
 };
